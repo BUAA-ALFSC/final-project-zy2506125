@@ -1,0 +1,23 @@
+# raw data
+data/
+*.tar
+*.tar.gz
+*.zip
+
+# model checkpoints and large predictions
+*.ckpt
+outputs/checkpoints/*.ckpt
+outputs/predictions/*.nc
+
+# Python / Jupyter cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# environment
+.venv/
+.env

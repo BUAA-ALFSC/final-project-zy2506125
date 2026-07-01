@@ -1,0 +1,2 @@
+scenario,variable,year_start,year_end,rmse_spatial,rmse_global,nrmse_spatial,nrmse_global,nrmse_total
+ssp245,diurnal_temperature_range,2080,2100,0.09712302134138334,0.011992596775359831,8.673056029276337,1.070935215283461,14.02773210569364

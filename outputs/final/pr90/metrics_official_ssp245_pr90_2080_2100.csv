@@ -1,0 +1,2 @@
+scenario,variable,year_start,year_end,rmse_spatial,rmse_global,nrmse_spatial,nrmse_global,nrmse_total
+ssp245,pr90,2080,2100,0.37028319848245356,0.04934836091512654,2.3938522656868813,0.3190333400725648,3.9890189660497053

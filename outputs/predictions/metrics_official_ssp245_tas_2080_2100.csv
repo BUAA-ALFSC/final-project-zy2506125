@@ -1,0 +1,2 @@
+scenario,variable,year_start,year_end,rmse_spatial,rmse_global,nrmse_spatial,nrmse_global,nrmse_total
+ssp245,tas,2080,2100,0.1336537222458023,0.1088821138396308,0.06455011092148968,0.05258628347655448,0.32748152830426214
